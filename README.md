@@ -15,4 +15,5 @@
 ## Favorites
 - Programming language: AWK; I also program a considerable amount in C++.
 - Editor: Member of the Order of Vim.
-- Operating System: MacOS and FreeBSD.
+- Operating System: MacOS.
+- Movie: No Country for Old Men.
