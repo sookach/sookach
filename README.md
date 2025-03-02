@@ -11,6 +11,7 @@
     - Nix/NixOS.
     - Additional CMake, Bazel.
     - C++26 features: reflection, contracts.
+    - (Hopeful) Read both the C & C++ standards in their entirety.
 
 ## Favorites
 - Programming language: AWK; I also program a considerable amount in C++.
